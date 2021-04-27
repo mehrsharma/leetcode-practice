@@ -1,6 +1,6 @@
 # Summary of Array Problems
 
-## Two Sum
+## 1. Two Sum
 ### Problem Description
 **Given**
 - integer array `nums`
@@ -17,7 +17,7 @@ This is an O(n) solution. To make it cleaner, check out enumerate method.
 
 ---
 
-## Best Time to Buy and Sell Stock
+## 2. Best Time to Buy and Sell Stock
 ### Problem Description
 **Given**
 - array `prices` where `prices[i]` is stock price on the ith day
