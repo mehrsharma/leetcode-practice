@@ -19,7 +19,7 @@ This is an O(n) solution. To make it cleaner, check out enumerate method.
 
 ---
 
-## 2. 12
+## 2. Best Time to Buy and Sell Stock
 ### Problem Description
 **Given**
 - array `prices` where `prices[i]` is stock price on the ith day
