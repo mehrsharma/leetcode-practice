@@ -1,7 +1,5 @@
 # Summary of Array Problems
 
----
-
 ## Two Sum
 ### Problem Summary
 Given an array of integers `nums` and an integer `target`
