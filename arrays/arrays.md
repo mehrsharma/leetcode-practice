@@ -8,6 +8,7 @@
 
 **Return**
 - indices of two numbers such that they add up to `target`
+
 Assume that each input would have exactly one solution, and you may not use the same element twice. Return the answer in any order.
 
 ### Solution Notes
@@ -25,6 +26,7 @@ This is an O(n) solution. To make it cleaner, check out enumerate method.
 
 **Return**
 - maximum profit you can get from transaction
+
 Maximize profit by picking a day to buy the stock and a different day in the future to sell that stock
 
 ### Solution Notes
