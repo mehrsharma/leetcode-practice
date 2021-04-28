@@ -35,3 +35,17 @@ Create variables `maxProfit` and `purchaseVal`. Go through `prices` and if any v
 This is an O(n) solution since it passes through `prices` just once.
 
 ---
+
+## 3. Contains Duplicate
+### Problem Description
+**Given**
+- integer array `nums`
+
+**Return**
+- `true` if any value appears at least twice
+- `false` if every element is distinct
+
+### Solution Notes
+Solution1 (faster): puts array into a set, which will eliminate duplicate values. If the length of this set is the same as the length of the original array, then all values are distinct, otherwise they are not.
+
+Solution2: sorts array and then passes through them and compares if any side by side values are the same (sort method has a O(nlogn) time complexity)
