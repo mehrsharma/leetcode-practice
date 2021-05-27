@@ -52,7 +52,7 @@ This is an O(n) solution since it passes through `prices` just once.
 
 ---
 
-## 3. Product of Array Except Self
+## 4. Product of Array Except Self
 ### Problem Description
 **Given**
 - integer array `nums`
