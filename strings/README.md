@@ -1,4 +1,4 @@
-# Summary of Array Problems
+# Summary of String Problems
 
 ## 1. Longest Substring Without Repeating Characters
 ### Problem Description
