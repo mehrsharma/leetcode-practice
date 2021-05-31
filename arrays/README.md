@@ -66,3 +66,5 @@ This is an O(n) solution since it passes through `prices` just once.
 Now, on our second pass through the array, if `numZeros == 0` then we can add `product/nums[x]` to finalArray. If `numZeros != 0 and nums[x] != 0` we append 0 to `finalArray` since we know that anything multiplied by 0 is 0. Finally, if `nums[x] == 0`, then we append the product, since it is calculated omitting zeros.
 
 This approach is O(2n) and omits division by 0.
+
+---
