@@ -16,4 +16,4 @@ class solution:
                     chars.pop(0)
                     left += 1
         return length
-# slow, optimize while loop
+
